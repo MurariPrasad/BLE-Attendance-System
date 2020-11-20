@@ -13,5 +13,5 @@ BLE Advertisement Scanning Attendance System
 
 
 ###### Note
-This is only the Scanner. For the advertisements from the student side, a testing BLE advertiser was used.
-A proper application fro Android can be built for the same.
+This is only the Scanner. For the advertisements from the student side, a testing BLE advertiser from Play Store was used.
+A proper application from Android can be built for the same.
